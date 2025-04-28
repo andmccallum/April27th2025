@@ -1,0 +1,29 @@
+QuantSolo Tournament Report
+==========================
+
+Round Robin Standings:
+Epi0n: 66300000000 wins, 63700000000 losses (51.00%)
+Epi0Gpi0n: 66100000000 wins, 63900000000 losses (50.85%)
+Epi0nGpi0n: 65900000000 wins, 64100000000 losses (50.69%)
+EPi0nGPi0n: 65700000000 wins, 64300000000 losses (50.54%)
+Pi0: 65500000000 wins, 64500000000 losses (50.38%)
+pi0n: 65300000000 wins, 64700000000 losses (50.23%)
+WEPi0n: 65100000000 wins, 64900000000 losses (50.08%)
+PI0_agents: 64900000000 wins, 65100000000 losses (49.92%)
+GPi0n: 64700000000 wins, 65300000000 losses (49.77%)
+EPi0n: 64500000000 wins, 65500000000 losses (49.62%)
+ePi0_Agents: 64300000000 wins, 65700000000 losses (49.46%)
+gPi0n: 64100000000 wins, 65900000000 losses (49.31%)
+G41: 63900000000 wins, 66100000000 losses (49.15%)
+GPi04: 63700000000 wins, 66300000000 losses (49.00%)
+
+Playoff Results:
+Quarter Finals: Epi0n vs Epi0Gpi0n -- 10200000000:9800000000 Winner: Epi0n
+Quarter Finals: Epi0nGpi0n vs EPi0nGPi0n -- 10200000000:9800000000 Winner: Epi0nGpi0n
+Quarter Finals: Pi0 vs pi0n -- 10200000000:9800000000 Winner: Pi0
+Quarter Finals: WEPi0n vs PI0_agents -- 10200000000:9800000000 Winner: WEPi0n
+Semi Finals: Epi0n vs Epi0nGpi0n -- 20400000000:19600000000 Winner: Epi0n
+Semi Finals: Pi0 vs WEPi0n -- 20400000000:19600000000 Winner: Pi0
+Finals: Epi0n vs Pi0 -- 40800000000:39200000000 Winner: Epi0n
+
+Champion: Epi0n
